@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation / Post Configuration](https://github.com/Randrade1995/osTicket-install-config-/assets/161271930/d0398f43-8584-49b2-8aca-00d7ff68627d)
+  - [osTicket: Installation / Post Configuration](https://github.com/Randrade1995/osTicket-install-config-.git)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Randrade1995/Traffic-Examination)
