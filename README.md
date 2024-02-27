@@ -15,4 +15,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/RJANDRADE
-[linkedin]: https://linkedin.com/in/rojayandrade
+[linkedin]: https://linkedin.com/in/rojay-andrade
