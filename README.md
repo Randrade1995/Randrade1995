@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+https://github.com/Randrade1995/PHISHING-EMAIL?tab=readme-ov-file#phishing-email-analysis
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation / Post Configuration](https://github.com/Randrade1995/osTicket-install-config-.git)
 
