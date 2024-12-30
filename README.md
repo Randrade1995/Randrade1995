@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rojay, a <a href="https://linkedin.com/in/Rojay-Andrade">SOC ANALYST</a>☺</h1>
+<h1>Hi, I'm Rojay, an aspiring <a href="https://linkedin.com/in/Rojay-Andrade">SOC ANALYST</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
